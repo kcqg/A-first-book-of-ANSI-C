@@ -2,8 +2,7 @@
 
 January 17, 2018
 
-This Repo will be for saving sample programs 
-and my answers to most of its programming exercises,
+This Repo will be for saving my answers to most of its programming exercises,
 i.e. from the book "A First Book of ANSI C (4th edition) by Gary Bronson"
 https://www.amazon.com/First-Book-Fourth-Introduction-Programming/dp/1418835560
 
